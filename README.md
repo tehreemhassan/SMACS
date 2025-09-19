@@ -1,5 +1,4 @@
-# SMACS
-Simple Multi Agent Chat System for Technical Assessment at Institute of Advanced Engineering
+# SMACS — Simple Multi-Agent Chat System (Assessment Package)
 
 ## Overview
 This repository contains a minimal multi-agent prototype implementing a **Coordinator (Manager)** and three specialized worker agents:

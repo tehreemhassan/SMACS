@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  smacs:
+    build: .
+    container_name: smacs_app
+    volumes:
+      - ./outputs:/app/outputs
+    tty: true
